@@ -1,4 +1,4 @@
-//author = avipreet,robin
+//author = avipreet
 
 #include<Sparki.h>
 
